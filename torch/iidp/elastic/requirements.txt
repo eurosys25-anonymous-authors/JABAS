@@ -1,0 +1,16 @@
+annoy==1.17.3
+cvxpy==1.1.24
+dill==0.3.4
+filelock==3.4.1
+func_timeout==4.3.5
+glog==0.3.1
+grpcio==1.48.2
+grpcio-tools==1.48.2
+pandas==1.1.5
+preconditions==0.1
+psutil==5.9.5
+seaborn==0.11.2
+setproctitle==1.2.3
+sklearn==0.0
+scikit-learn==0.24.2
+statsmodels==0.12.2
